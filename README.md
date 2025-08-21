@@ -6,7 +6,7 @@ The pipeline transforms raw movie, rating, and tagging data into structured fact
 
 ## 🏗️ Architecture
 
-![Data Pipeline Architecture](ecb6d80d-2458-43fd-b5a7-645c71aba21d.png)
+<img src="Data Pipeline Architecture.jpg">
 
 ## Key Layers
 
